@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+.container{
+    max-width: 1080px;
+    margin:0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+header{
+    background-color: black;
+    width: 100%;
+    padding: 0px;
+}   
+
+.logo img{
+    width: 200px ;
+    cursor: pointer ;
+}
+
+.menu{
+    width: 100%;
+}
+
+.menu nav a{
+    color:aqua;
+    text-decoration: none;
+    padding-right: 50px;
+    font-size: 18px;
+    cursor: pointer;
+  }
+
+#Éobicho{
+    height: 300px;
+    height: 300px;
+    border-radius: 50%;
+}  
